@@ -1,10 +1,11 @@
 import React, {Component} from 'react';
 
-function handleClick() {
-}
-
 
 class QuizQuestionButton extends Component {
+	
+	handleClick = () => {
+
+	}
 
 	render() {
 		return (
